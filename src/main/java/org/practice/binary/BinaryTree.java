@@ -4,6 +4,7 @@ import java.util.HashMap;
 
 public class BinaryTree {
 
+    //root is a TreeNode
     TreeNode root;
     HashMap<Integer,Integer> hm = new HashMap<>();
 
